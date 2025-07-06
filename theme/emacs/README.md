@@ -1,10 +1,10 @@
-![minsk-emacs](https://github.com/jlpaca/minsk-theme/blob/master/img/banner-emacs.png?raw=true)
+![minsk-emacs](../../img/banner-emacs.png)
 
 > a theme in deep muted greens. for [emacs](https://www.gnu.org/software/emacs/).
 
 Support for various modes is yet far from exhaustive —
-[feedback](https://github.com/jlpaca/minsk-theme/issues/new) and
-[contributions](https://github.com/jlpaca/minsk-theme/compare) are
+[feedback](https://codeberg.org/loj/minsk-theme/issues/new) and
+[contributions](https://codeberg.org/loj/minsk-theme/compare) are
 most welcome.
 
 ## Installation

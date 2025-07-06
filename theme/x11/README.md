@@ -1,4 +1,4 @@
-![minsk-x11](https://github.com/jlpaca/minsk-theme/blob/master/img/banner-x11.png?raw=true)
+![minsk-x11](../../img/banner-x11.png)
 
 > a theme in deep muted greens. for [X](https://www.x.org/wiki/).
 

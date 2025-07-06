@@ -1,10 +1,10 @@
 ;;; minsk-theme.el --- Minsk, a theme in deep muted greens -*- lexical-binding: t; -*-
 
-;; Author: Jean Lo <jlpaca@users.noreply.github.com>
+;; Author: June Lo <loh.ka.tsun@gmail.com>
 ;; Version: 0.2
 ;; Package-Requires: ((emacs "24"))
 ;; Keywords: theme, faces
-;; URL: https://github.com/jlpaca/minsk-theme
+;; URL: https://codeberg.org/loj/minsk-theme
 
 ;;; Commentary:
 
