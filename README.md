@@ -8,6 +8,7 @@ and most of the time prefers highlighting by font style over by
 colour, though it isn't excessively strict about wiggling a little in
 hue-space.
 
+
 ## Screenshot
 
 ![screenshot](https://github.com/jlpaca/minsk-theme/blob/master/img/screenshot.png?raw=true)

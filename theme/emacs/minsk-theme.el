@@ -35,10 +35,10 @@
       (fg-1 "#98a883")
       (fg-2 "#78906c")
 
-      ;; monochromes
-      (gr-0 "#bcbcbc")
+      ;; greys
+      (gr-0 "#1e2322")
       ;; (gr-1 "#909090")
-      (gr-2 "#535353")
+      (gr-2 "#3a4139")
 
       ;; highlights - neutral
       (h-na "#7e9859")
@@ -142,6 +142,7 @@
    ;; whitespace mode
    `(whitespace-empty       ((t (:background ,h-ya))))
    `(whitespace-hspace      ((t (:foreground ,gr-0 :background ,gr-2))))
+   `(whitespace-tab         ((t (:foreground ,gr-2 :background ,gr-0))))
    `(whitespace-indentation ((t (:foreground ,h-ya :background ,h-yc :bold t))))
    `(whitespace-line        ((t (:foreground ,h-ra :bold t))))
    `(whitespace-newline     ((t (:foreground ,gr-2))))
